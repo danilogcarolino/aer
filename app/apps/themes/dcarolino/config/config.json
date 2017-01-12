@@ -1,0 +1,14 @@
+{
+  "name" : "Dcarolino",
+  "description" : "",
+  "thumb" : "images/image.png",
+  "helpers": [
+    "Themes::Dcarolino::MainHelper"
+  ],
+  "hooks": {
+    "on_active": ["dcarolino_on_install_theme"],
+    "on_inactive": ["dcarolino_on_uninstall_theme"],
+    "on_theme_settings": ["dcarolino_settings"]
+    //here all your hooks
+  }
+}
