@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/danilogcarolino
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.dcarolino.com
+  * I am danilogcarolino (https://keybase.io/danilogcarolino) on keybase.
+  * I have a public key ASDdQBg6dNsFxtJb63j1NnN5PO6farsvQ_QcfjG-2nAPHgo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120dd40183a74db05c6d25beb78f53673793cee9f6abb2f43f41c7e31beda700f1e0a",
+            "host": "keybase.io",
+            "kid": "0120dd40183a74db05c6d25beb78f53673793cee9f6abb2f43f41c7e31beda700f1e0a",
+            "uid": "5ed241a70038b5ad692b04d33a25f719",
+            "username": "danilogcarolino"
+        },
+        "service": {
+            "hostname": "www.dcarolino.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1485788261,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1485788177,
+        "hash": "1b22c72fe110128f62389f4a9a83374570be3c40f27a6cadb202893d25700703c166622b2fe19d9c7cfec2748405bed254e27bc13fd9fde2ed78a6f82bffb48b",
+        "seqno": 824186
+    },
+    "prev": "0a9ae91de02ed8f001ebdd5d5ea9025c6ba6d6abb028e79a2184af172cf0329e",
+    "seqno": 11,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg3UAYOnTbBcbSW+t49TZzeTzun2q7L0P0HH4xvtpwDx4Kp3BheWxvYWTFAwB7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZGQ0MDE4M2E3NGRiMDVjNmQyNWJlYjc4ZjUzNjczNzkzY2VlOWY2YWJiMmY0M2Y0MWM3ZTMxYmVkYTcwMGYxZTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZGQ0MDE4M2E3NGRiMDVjNmQyNWJlYjc4ZjUzNjczNzkzY2VlOWY2YWJiMmY0M2Y0MWM3ZTMxYmVkYTcwMGYxZTBhIiwidWlkIjoiNWVkMjQxYTcwMDM4YjVhZDY5MmIwNGQzM2EyNWY3MTkiLCJ1c2VybmFtZSI6ImRhbmlsb2djYXJvbGlubyJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoid3d3LmRjYXJvbGluby5jb20iLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE4In0sImN0aW1lIjoxNDg1Nzg4MjYxLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0ODU3ODgxNzcsImhhc2giOiIxYjIyYzcyZmUxMTAxMjhmNjIzODlmNGE5YTgzMzc0NTcwYmUzYzQwZjI3YTZjYWRiMjAyODkzZDI1NzAwNzAzYzE2NjYyMmIyZmUxOWQ5YzdjZmVjMjc0ODQwNWJlZDI1NGUyN2JjMTNmZDlmZGUyZWQ3OGE2ZjgyYmZmYjQ4YiIsInNlcW5vIjo4MjQxODZ9LCJwcmV2IjoiMGE5YWU5MWRlMDJlZDhmMDAxZWJkZDVkNWVhOTAyNWM2YmE2ZDZhYmIwMjhlNzlhMjE4NGFmMTcyY2YwMzI5ZSIsInNlcW5vIjoxMSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEAsIWOArhDC84Xba3dp2EZLoH/Ok7LHbKR1ZE9OMxgCBlCg1PbGqchQsye9VZwfrMdmIXWCI3pO97qfG/oAvOMDqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgO8IxGKe0guf16x13ludjm8XPwnXR2rkm0029pblGg92jdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/danilogcarolino
+
+==================================================================
